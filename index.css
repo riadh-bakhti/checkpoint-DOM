@@ -1,0 +1,14 @@
+.card {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+
+}
+img {
+    width: 100px;
+    height: 100px;
+}
+.red {
+    background-color: red;
+}
